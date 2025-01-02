@@ -1,4 +1,4 @@
-# Tetris
+# My Tetris Game
 
 Hi, my name is Nicole! I'm a high school student/tech enthusiast :)
 
